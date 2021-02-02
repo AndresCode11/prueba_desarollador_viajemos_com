@@ -223,6 +223,10 @@
             top: 0
         }
 
+        .pointer-div {
+            cursor: pointer;
+        }
+
         .right-0 {
             right: 0
         }
@@ -423,21 +427,21 @@
     <div class="container my-3">
         <div class="row text-center">
             <div class="col-3">
-                <div class="card" id="miami-button">
+                <div class="card" id="miami-button" style="cursor: pointer">
                     <div class="card-body">
                         <h4>Miami</h4>
                     </div>
                 </div>
             </div>
             <div class="col-3">
-                <div class="card" id="orlando-button">
+                <div class="card" id="orlando-button" style="cursor: pointer">
                     <div class="card-body">
                         <h4>Orlando</h4>
                     </div>
                 </div>
             </div>
             <div class="col-3">
-                <div class="card" id="newyork-button">
+                <div class="card" id="newyork-button" style="cursor: pointer">
                     <div class="card-body">
                         <h4>New York</h4>
 
@@ -445,7 +449,7 @@
                 </div>
             </div>
             <div class="col-3">
-                <div class="card" id="historial-button">
+                <div class="card" id="historial-button" style="cursor: pointer">
                     <div class="card-body">
                         <h4>Historial</h4>
                     </div>
