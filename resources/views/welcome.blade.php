@@ -420,6 +420,9 @@
             <div class="col-12 mt-5 mb-3">
                 <h1 style="font-weight: 700;" class="text-center">Prueba Desarollador Viajemos.com</h1>
                 <h6 class="text-center">Pablo Andres Diaz Mora</h6>
+                <div class="text-center">
+                    <small><a href="https://github.com/AndresCode11/prueba_desarollador_viajemos_com">https://github.com/AndresCode11/prueba_desarollador_viajemos_com</a></small>
+                </div>
             </div>
         </div>
     </div>
