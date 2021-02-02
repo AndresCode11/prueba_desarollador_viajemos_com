@@ -3,4 +3,4 @@
 
 ## Prueba Desarollador PHP Pablo Andres Diaz Mora
 
-Prueba Realizada usando Framework Laravel, JavaScript, API yahoo Wheater
+Prueba Realizada usando Framework Laravel, JavaScript, API yahoo Weather
