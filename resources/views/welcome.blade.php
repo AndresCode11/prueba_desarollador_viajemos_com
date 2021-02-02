@@ -414,7 +414,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 mt-5 mb-3">
-                <h1 style="font-weight: 700;" class="text-center">Medidor Humedad</h1>
+                <h1 style="font-weight: 700;" class="text-center">Prueba Desarollador Viajemos.com</h1>
                 <h6 class="text-center">Pablo Andres Diaz Mora</h6>
             </div>
         </div>
