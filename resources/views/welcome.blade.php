@@ -528,7 +528,7 @@
 
     // get Wheater
     function getWheaterData(city) {
-        return fetch('http://localhost:8000/api/wheater', {
+        return fetch('http://64.227.81.127:8001/api/wheater', {
                 headers: {
                     contentType: 'application/json'
                 },
