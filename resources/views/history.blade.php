@@ -451,7 +451,7 @@
 </body>
 
 <script>
-    fetch('http://64.227.81.127:8001/api/wheater', {
+    fetch('http://64.227.81.127:8001/api/history', {
             headers: {
                 contentType: 'application/json'
             }
